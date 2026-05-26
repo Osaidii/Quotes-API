@@ -10,7 +10,7 @@ adminkey = "onlyiaddorremove"
 app = FastAPI()
 FILE = "quotes.json"
 
-app.middleware(
+app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
     allow_credientials=True,
