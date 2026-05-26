@@ -21,3 +21,6 @@ Get returns a string with a random quote that is randomized everytime you call o
 To call these functions, you can use this url, https://quotes.osaidii.hackclub.app/get or https://osaidii.hackclub.com/list.
 It is that simple. Nothing more and nothing less.  
 Just for your info, this API uses FastAPI and Uvicorn libraries, and is hosted on nest.hackclub.com.  
+
+## Website
+The Website I personally made for this API is [Dose-of-Reality](https://osaidii.github.io/Dose-of-Reality) 
