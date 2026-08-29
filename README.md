@@ -26,4 +26,4 @@ Just for your info, this API uses FastAPI and Uvicorn libraries, and is hosted o
 The Website I personally made for this API is [Dose-of-Reality](https://osaidii.github.io/Dose-of-Reality) 
 
 ## Personal Hosting
-If you would like to host this API for Yourself on a separate server of your own, please follow this [file](https://osaidii.github.io/Quotes-API/blob/main/SELF-HOSTING) 
+If you would like to host this API for Yourself on a separate server of your own, please refer to this [file](https://github.com/Osaidii/Quotes-API/blob/main/SELF-HOSTING). 
