@@ -9,8 +9,8 @@ This API is made for the sole reason of presenting quotes that when you hear the
 5. Automatic Git Pushes.
 
 ## License
-I do not have any copyright or any type of right on these quotes and but the code is open source.  
-This API can be used by free anyone free of chrage without providing credit.  
+I do not have any copyright or any type of right on these quotes and the code is open source.  
+This API can be used by free anyone free of chrage.  
 
 ## How to use
 This API has 2 main functions that you can call   
@@ -24,3 +24,6 @@ Just for your info, this API uses FastAPI and Uvicorn libraries, and is hosted o
 
 ## Website
 The Website I personally made for this API is [Dose-of-Reality](https://osaidii.github.io/Dose-of-Reality) 
+
+## Personal Hosting
+If you would like to host this API for Yourself on a separate server of your own, please follow this [file](https://osaidii.github.io/Quotes-API/blob/main/SELF-HOSTING) 
