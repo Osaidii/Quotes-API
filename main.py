@@ -5,7 +5,7 @@ import uvicorn
 import subprocess
 from random import randint
 
-adminkey = "onlyiaddorremove"
+adminkey = "add your own password here"
 
 app = FastAPI()
 FILE = "quotes.json"
